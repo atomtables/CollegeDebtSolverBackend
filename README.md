@@ -1,5 +1,5 @@
 # CollegeDebtSolver: hackJPS 2024 Project
-## Frontend
+## Backend
 
 Adithiya Venkatakrishnan, Alexander Poon, Nathaniel George, Arnav Daine
 
